@@ -9,8 +9,8 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 
 * 🔭 **Currently working on:** Building an e-commerce web platform for a leather goods store using Softr, Airtable, Google Sheets, and Drive integration.
 * 🌱 **Currently learning:** Advanced English language & professional bilingual communication.
-* 👯 **Looking to collaborate on:** Open-source backend tools, database optimization scripts, and analytics projects.
-* 💬 **Ask me about:** SQL tuning, Power BI DAX modeling, stored procedures, and C#/.NET web development.
+* 👯 **Looking to collaborate on:** Open-source web development projects, backend tools, database optimization scripts, and analytics solutions.
+* 💬 **Ask me about:** Web development, SQL tuning, Power BI DAX modeling and stored procedures.
 
 ---
 
