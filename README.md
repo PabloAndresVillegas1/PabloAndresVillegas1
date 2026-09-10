@@ -58,7 +58,5 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 
 ---
 
-📫 <b>Connect with me:</b><br>
-🌐 <a href="https://pablovillegas-portfolio.onrender.com/" target="_blank" rel="noopener noreferrer">Web Portfolio</a> | 
-💼 <a href="https://www.linkedin.com/in/pablo-andres-villegas-morales/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
-📧 <a href="mailto:pabloandresvillegas1@gmail.com">pabloandresvillegas1@gmail.com</a>
+📫 **Connect with me:**  
+🌐 [Web Portfolio ↗](https://pablovillegas-portfolio.onrender.com/) | 💼 [LinkedIn ↗](https://www.linkedin.com/in/pablo-andres-villegas-morales/) | 📧 [pabloandresvillegas1@gmail.com](mailto:pabloandresvillegas1@gmail.com)
