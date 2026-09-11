@@ -16,9 +16,9 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 
 ### 🛠️ Tech Stack & Core Competencies
 
-* **Software Development & Backend:** C#, PHP, Python (Flask/Django), JavaScript/TypeScript, Java, Node.js, .NET, Web Apps & Games.
-* **Architecture & Frameworks:** RESTful APIs, Microservices Architecture, MVC Pattern, Git/GitHub, GitLab, CI/CD.
-* **Databases & Data Engineering:** SQL Server, MySQL, PostgreSQL, MongoDB, AS400 (DB2), Stored Procedures, DDL/DML, Data Warehousing & ETL.
+* **Programming Languages & Full-Stack:** C#, PHP, Python, JavaScript/TypeScript, Java, Node.js, .NET, Tailwind CSS.
+* **Architecture & Frameworks:** Next.js, NestJS, Django, Flask, RESTful APIs, Microservices Architecture, MVC Pattern, Docker, Git/GitHub, GitLab, CI/CD.
+* **Databases & Data Engineering:** SQL Server, MySQL, PostgreSQL, Redis, Prisma ORM, MongoDB, AS400 (DB2), Stored Procedures, DDL/DML, Data Warehousing & ETL.
 * **Analytics & Business Intelligence:** Power BI (+6 years, DAX, Power Query), Microsoft Fabric, Zapier Automation, Airtable/Softr, ArcGIS.
 
 ---
