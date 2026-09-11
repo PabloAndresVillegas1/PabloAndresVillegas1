@@ -40,13 +40,41 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 
 ### 🚀 Featured Projects
 
-#### 📌 1. [Full-Stack Web App / Backend Service](./link-to-your-repo)
-* **Description:** End-to-end software application featuring modular backend architecture, REST API integrations, and database persistence.
-* **Tech Stack:** C# / Python (Flask), PostgreSQL, REST APIs, Git.
+### 🏫 [Jecatin - Educational & Operational Management Platform](https://jecatin.comfamiliar.com/)
+* **Tech Stack:** `PHP` | `JavaScript` | `MySQL` | `Joomla!` | `Relational Database Design`
+* **Description:** Enterprise web application for teachers and administrators to manage student characterization, class scheduling, periodic evaluations, attendance, and administrative logistics (transportation, meals, and souvenir distribution).
+* **Data Focus:** Structured and normalized high-volume student data; implemented relational schemas to manage daily tracking, attendance metrics, and logistical resource allocation.
+* **Link:** 🌐 [Live Enterprise Web Application ↗](https://jecatin.comfamiliar.com/) *(Proprietary Production System)*
 
-#### 📌 2. [SQL Data Pipeline & Warehouse ETL](./link-to-your-repo)
-* **Description:** High-performance database automation with optimized Stored Procedures and structured ETL pipelines for business operations.
-* **Tech Stack:** SQL Server, T-SQL, Stored Procedures, Data Warehouse.
+---
+
+### 🛒 [Nexus Market V2 - Microservices E-Commerce Architecture](https://github.com/PabloAndresVillegas1/nexusmarketV2)
+* **Tech Stack:** `Next.js 15` | `NestJS` | `PostgreSQL` | `Prisma ORM` | `Redis` | `TypeScript` | `Tailwind CSS` | `Stripe` | `Turborepo`
+* **Description:** Scalable multi-vendor e-commerce platform built on a microservices architecture (API Gateway + 3 microservices) with subscription models, caching, and CI/CD pipelines.
+* **Data & Architecture:** Microservices data isolation using PostgreSQL with Prisma ORM, distributed state caching with Redis, and monorepo management via Turborepo. Built with modern AI-assisted engineering practices.
+* **Links:** 
+  * 📂 [GitHub Repository ↗](https://github.com/PabloAndresVillegas1/nexusmarketV2)
+  * 🎥 [Video Demo & Architecture Walkthrough ↗](https://www.youtube.com/watch?v=QIGFseVDJvM&feature=youtu.be)
+
+---
+
+### 🎮 Interactive 3D Applications, Mobile Games & Educational Simulators
+* **Tech Stack:** `C#` | `Unity 3D` | `Android` | `TortoiseSVN` | `Desktop & WebGL`
+* **Description:** Suite of interactive 3D tools, educational simulators, and games developed for mobile, web, and touch-screen kiosks:
+  * **3D Virtual Mall Navigator:** Multi-screen touch-kiosk application for interactive 3D navigation in large shopping malls.
+  * **Interactive Science Simulators (3D):** Mobile & web platforms evaluating knowledge in Physics, Chemistry, Microscopy, and Elevator/Traffic light actuators.
+  * **Mobile & Web Games:** *Tayrona Park* (interactive tourism app & mini-game), *Nokabe* (Android physical-obstacle game), and customized WebGL games for corporate campaigns.
+
+---
+
+### 🤖 AI Engineering & NLP Applications
+* **Tech Stack:** `Python` | `Vue.js` | `OpenAI API / ChatGPT` | `NLP` | `Voice Processing`
+* **Description:** Portfolio of AI-driven solutions covering sentiment analysis, voice processing, and context-aware conversational bots:
+  * **[Chatbot ChatGPT](https://github.com/PabloAndresVillegas1/Chatbot-ChatGPT):** Conversational AI interface built with OpenAI API.
+  * **[Chatbot Specific Data](https://github.com/PabloAndresVillegas1/Chatbot-Datos-especificos):** Custom knowledge-base chatbot for specific document queries.
+  * **[Meeting Companion](https://github.com/PabloAndresVillegas1/Meeting-Companion):** AI assistant for meeting transcription and summary extraction.
+  * **[Translate Voice](https://github.com/PabloAndresVillegas1/translate-voice) & [Chat Voice OpenAI](https://github.com/PabloAndresVillegas1/chat-voice-openai):** Speech-to-text and voice-driven AI interfaces.
+  * **[Subtitulos Imagenes](https://github.com/PabloAndresVillegas1/subtitulos_imagenes):** Computer vision & image captioning utility.
 
 ---
 
