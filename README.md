@@ -58,15 +58,6 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 
 ---
 
-### 🎮 Interactive 3D Applications, Mobile Games & Educational Simulators
-* **Tech Stack:** `C#` | `Unity 3D` | `Android` | `TortoiseSVN` | `Desktop & WebGL`
-* **Description:** Suite of interactive 3D tools, educational simulators, and games developed for mobile, web, and touch-screen kiosks:
-  * **3D Virtual Mall Navigator:** Multi-screen touch-kiosk application for interactive 3D navigation in large shopping malls.
-  * **Interactive Science Simulators (3D):** Mobile & web platforms evaluating knowledge in Physics, Chemistry, Microscopy, and Elevator/Traffic light actuators.
-  * **Mobile & Web Games:** *Tayrona Park* (interactive tourism app & mini-game), *Nokabe* (Android physical-obstacle game), and customized WebGL games for corporate campaigns.
-
----
-
 ### 🤖 AI Engineering & NLP Applications
 * **Tech Stack:** `Python` | `Vue.js` | `OpenAI API / ChatGPT` | `NLP` | `Voice Processing`
 * **Description:** Portfolio of AI-driven solutions covering sentiment analysis, voice processing, and context-aware conversational bots:
@@ -75,6 +66,31 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
   * **[Meeting Companion](https://github.com/PabloAndresVillegas1/Meeting-Companion):** AI assistant for meeting transcription and summary extraction.
   * **[Translate Voice](https://github.com/PabloAndresVillegas1/translate-voice) & [Chat Voice OpenAI](https://github.com/PabloAndresVillegas1/chat-voice-openai):** Speech-to-text and voice-driven AI interfaces.
   * **[Subtitulos Imagenes](https://github.com/PabloAndresVillegas1/subtitulos_imagenes):** Computer vision & image captioning utility.
+
+---
+
+### 🗳️ [Registraduría MINTIC - Distributed Electoral Management System](https://github.com/cinemintic-pablo)
+* **Tech Stack:** `Python` | `Java (Spring Boot)` | `TypeScript (Vue.js)` | `MongoDB` | `API Gateway` | `Microservices`
+* **Description:** Distributed multi-tenant system designed for national electoral administration, handling security access control, party/candidate registration, voting table management, and real-time election results processing.
+* **Data Focus:** Decoupled microservices architecture using MongoDB for flexible document storage and event processing; implemented an API Gateway alongside dedicated Security (RBAC) and Results backend services to ensure strict data isolation and scalable query execution.
+* **Link:** 📂 [GitHub Organization Repositories ↗](https://github.com/REGISTRADURIA-MINTIC-PABLO) *(Public Microservices Ecosystem)*
+
+---
+
+### 🎬 [CineMINTIC 2022 - Movie Ticketing & Concessions Platform](https://github.com/cinemintic-pablo)
+* **Tech Stack:** `Angular` | `TypeScript` | `Node.js` | `Firebase` | `JavaScript` | `Handlebars`
+* **Description:** Full-stack web application for online cinema management, enabling user authentication, interactive movie catalog browsing, seat reservation workflows, and concession combo purchases.
+* **Data Focus:** Cloud-native NoSQL data design utilizing Firebase for real-time document synchronization, user session state management, and seamless transactional flows across decoupled front-end micro-frontends.
+* **Link:** 📂 [GitHub Organization Repositories ↗](https://github.com/cinemintic-pablo) *(Public Microservices Ecosystem)*
+
+---
+
+### 🎮 Interactive 3D Applications, Mobile Games & Educational Simulators
+* **Tech Stack:** `C#` | `Unity 3D` | `Android` | `TortoiseSVN` | `Desktop & WebGL`
+* **Description:** Suite of interactive 3D tools, educational simulators, and games developed for mobile, web, and touch-screen kiosks:
+  * **3D Virtual Mall Navigator:** Multi-screen touch-kiosk application for interactive 3D navigation in large shopping malls.
+  * **Interactive Science Simulators (3D):** Mobile & web platforms evaluating knowledge in Physics, Chemistry, Microscopy, and Elevator/Traffic light actuators.
+  * **Mobile & Web Games:** *Tayrona Park* (interactive tourism app & mini-game), *Nokabe* (Android physical-obstacle game), and customized WebGL games for corporate campaigns.
 
 ---
 
