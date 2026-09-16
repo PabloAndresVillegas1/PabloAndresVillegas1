@@ -1,5 +1,5 @@
 # Hi there! I'm Pablo Villegas 👋
-### Software Engineer | Full-Stack & Backend Developer | Data & Database Specialist
+### Systems Engineer | Full-Stack & Backend Developer | Data & Database Specialist
 
 Systems Engineer (Honors Graduate) and Software Development Specialist. I bring a versatile technical profile combining **full-stack & backend software engineering** (C#, PHP, Python, JavaScript, APIs) with robust **data engineering, database administration, and BI analytics** (SQL Server, MySQL, PostgreSQL, Power BI, ETL).
 
@@ -40,6 +40,14 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 ---
 
 ### 🚀 Featured Projects
+
+### 👜 [Amatista Cuero - E-Commerce Platform & Product Catalog](https://amatistacuero.softr.app/)
+* **Tech Stack:** `Softr` | `Airtable` | `Google Sheets` | `Google Drive API` | `No-Code Architecture`
+* **Description:** Commercial e-commerce platform and web catalog engineered for a leather goods brand, enabling product variant browsing, inventory categorization, dynamic filtering, and streamlined customer ordering.
+* **Data Focus:** Multi-source cloud database integration leveraging Airtable for structured relational product modeling, dynamic stock tracking, and automated Google Workspace media pipelines.
+* **Link:** 🌐 [Live E-Commerce Platform ↗](https://amatistacuero.softr.app/) *(Active Retail Web Application)*
+
+---
 
 ### 🏫 [Jecatin - Educational & Operational Management Platform](https://jecatin.comfamiliar.com/)
 * **Tech Stack:** `PHP` | `JavaScript` | `MySQL` | `Joomla!` | `Relational Database Design`
