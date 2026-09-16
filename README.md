@@ -94,6 +94,7 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
   * **3D Virtual Mall Navigator:** Multi-screen touch-kiosk application for interactive 3D navigation in large shopping malls.
   * **Interactive Science Simulators (3D):** Mobile & web platforms evaluating knowledge in Physics, Chemistry, Microscopy, and Elevator/Traffic light actuators.
   * **Mobile & Web Games:** *Tayrona Park* (interactive tourism app & mini-game), *Nokabe* (Android physical-obstacle game), and customized WebGL games for corporate campaigns.
+  * **Link:** 🏢 [CloudLabs Virtual Labs ↗](https://cloudlabslearning.com/middle-school) *(Corporate Client Platform (3D))*
   * **Link:** 📰 [Semana Magazine Article ↗](https://www.semana.com/educacion/articulo/la-tecnologia-en-el-aula/502236/) *(Featured Press Review Simulators (3D))*
   * **Link:** 🛒 [Amazon Appstore Product Page ↗](https://www.amazon.com/dp/B00I0F2AVO?lv=shuf&channelId=500&plpRedirect=mhFallback) *(Official Mobile Game Listing - Nokabe)*
 
