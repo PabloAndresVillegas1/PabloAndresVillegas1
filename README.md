@@ -20,7 +20,7 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 * **Architecture & Frameworks:** `Next.js 15` | `NestJS` | `Spring Boot` | `Angular` | `Vue.js` | `Django` | `Flask` | `Joomla!` | `Unity 3D` | `Microservices Architecture` | `API Gateways` | `RESTful APIs` | `MVC Pattern` | `Turborepo (Monorepo)`
 * **Databases & Data Engineering:** `SQL Server` | `MySQL` | `PostgreSQL` | `MongoDB` | `Redis` | `Prisma ORM` | `AS400 (DB2)` | `Firebase / Firestore` | `Stored Procedures` | `DDL/DML` | `Data Warehousing` | `ETL Pipelines`
 * **Cloud, DevOps & Tooling:** `Docker` | `Git / GitHub` | `GitLab` | `CI/CD Pipelines` | `OpenAI API / NLP` | `Stripe Integration` | `TortoiseSVN`
-* **Analytics & Business Intelligence:** `Power BI (+6 years)` | `DAX` | `Power Query` | `Microsoft Fabric` | `Zapier` | `Airtable / Softr` | `ArcGIS`
+* **Analytics & Business Intelligence:** `Power BI` | `DAX` | `Power Query` | `Microsoft Fabric` | `Zapier` | `Airtable / Softr` | `ArcGIS`
 
 ---
 
@@ -47,7 +47,6 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 * **Data Focus:** Multi-source cloud database integration leveraging Airtable for structured relational product modeling, dynamic stock tracking, and automated Google Workspace media pipelines.
 * **Link:** 🌐 [Live E-Commerce Platform ↗](https://amatistacuero.softr.app/) *(Active Retail Web Application)*
 
----
 
 ### 🏫 [Jecatin - Educational & Operational Management Platform](https://jecatin.comfamiliar.com/)
 * **Tech Stack:** `PHP` | `JavaScript` | `MySQL` | `Joomla!` | `Relational Database Design`
@@ -55,7 +54,6 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 * **Data Focus:** Structured and normalized high-volume student data; implemented relational schemas to manage daily tracking, attendance metrics, and logistical resource allocation.
 * **Link:** 🌐 [Live Enterprise Web Application ↗](https://jecatin.comfamiliar.com/) *(Proprietary Production System)*
 
----
 
 ### 🛒 [Nexus Market V2 - Microservices E-Commerce Architecture](https://github.com/PabloAndresVillegas1/nexusmarketV2)
 * **Tech Stack:** `Next.js 15` | `NestJS` | `PostgreSQL` | `Prisma ORM` | `Redis` | `TypeScript` | `Tailwind CSS` | `Stripe` | `Turborepo`
@@ -65,7 +63,6 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
   * 📂 [GitHub Repository ↗](https://github.com/PabloAndresVillegas1/nexusmarketV2)
   * 🎥 [Video Demo & Architecture Walkthrough ↗](https://www.youtube.com/watch?v=QIGFseVDJvM&feature=youtu.be)
 
----
 
 ### 🤖 AI Engineering & NLP Applications
 * **Tech Stack:** `Python` | `Vue.js` | `OpenAI API / ChatGPT` | `NLP` | `Voice Processing`
@@ -76,7 +73,6 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
   * **[Translate Voice](https://github.com/PabloAndresVillegas1/translate-voice) & [Chat Voice OpenAI](https://github.com/PabloAndresVillegas1/chat-voice-openai):** Speech-to-text and voice-driven AI interfaces.
   * **[Subtitulos Imagenes](https://github.com/PabloAndresVillegas1/subtitulos_imagenes):** Computer vision & image captioning utility.
 
----
 
 ### 🗳️ [Registraduría MINTIC - Distributed Electoral Management System](https://github.com/cinemintic-pablo)
 * **Tech Stack:** `Python` | `Java (Spring Boot)` | `TypeScript (Vue.js)` | `MongoDB` | `API Gateway` | `Microservices`
@@ -84,7 +80,6 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 * **Data Focus:** Decoupled microservices architecture using MongoDB for flexible document storage and event processing; implemented an API Gateway alongside dedicated Security (RBAC) and Results backend services to ensure strict data isolation and scalable query execution.
 * **Link:** 📂 [GitHub Organization Repositories ↗](https://github.com/REGISTRADURIA-MINTIC-PABLO) *(Public Microservices Ecosystem)*
 
----
 
 ### 🎬 [CineMINTIC 2022 - Movie Ticketing & Concessions Platform](https://github.com/cinemintic-pablo)
 * **Tech Stack:** `Angular` | `TypeScript` | `Node.js` | `Firebase` | `JavaScript` | `Handlebars`
@@ -92,7 +87,6 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 * **Data Focus:** Cloud-native NoSQL data design utilizing Firebase for real-time document synchronization, user session state management, and seamless transactional flows across decoupled front-end micro-frontends.
 * **Link:** 📂 [GitHub Organization Repositories ↗](https://github.com/cinemintic-pablo) *(Public Microservices Ecosystem)*
 
----
 
 ### 🎮 Interactive 3D Applications, Mobile Games & Educational Simulators
 * **Tech Stack:** `C#` | `Unity 3D` | `Android` | `TortoiseSVN` | `Desktop & WebGL`
