@@ -39,7 +39,7 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 ### 👜 [Amatista Cuero - E-Commerce Platform & Product Catalog](https://amatistacuero.softr.app/)
 * **Tech Stack:** `Softr` | `Airtable` | `Google Sheets` | `Google Drive API` | `No-Code Architecture`
