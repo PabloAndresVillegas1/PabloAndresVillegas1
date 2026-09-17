@@ -39,7 +39,7 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 👜 [Amatista Cuero - E-Commerce Platform & Product Catalog](https://amatistacuero.softr.app/)
 * **Tech Stack:** `Softr` | `Airtable` | `Google Sheets` | `Google Drive API` | `No-Code Architecture`
@@ -77,8 +77,6 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
    * **Tech Stack:** `Python 3.12` | `FastAPI (100% Async)` | `PostgreSQL (SQLAlchemy 2.0 + Alembic)` | `React` | `Pydantic v2` | `Pytest` | `Stripe`
    * **Details:** Fully asynchronous backend API leveraging SQLAlchemy async ORM, Alembic migrations, Pydantic data validation, and asynchronous inter-service HTTP requests (`httpx`).
    * **Link:** 📂 [GitHub Repository (Python) ↗](https://github.com/PabloAndresVillegas1/Nexus-market-Pablo-Python.git)
-
----
 
 
 ### 🤖 AI Engineering & NLP Applications
