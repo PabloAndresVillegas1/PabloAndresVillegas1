@@ -55,13 +55,30 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 * **Link:** 🌐 [Live Enterprise Web Application ↗](https://jecatin.comfamiliar.com/) *(Proprietary Production System)*
 
 
-### 🛒 [Nexus Market V2 - Microservices E-Commerce Architecture](https://github.com/PabloAndresVillegas1/nexusmarketV2)
-* **Tech Stack:** `Next.js 15` | `NestJS` | `PostgreSQL` | `Prisma ORM` | `Redis` | `TypeScript` | `Tailwind CSS` | `Stripe` | `Turborepo`
-* **Description:** Scalable multi-vendor e-commerce platform built on a microservices architecture (API Gateway + 3 microservices) with subscription models, caching, and CI/CD pipelines.
-* **Data & Architecture:** Microservices data isolation using PostgreSQL with Prisma ORM, distributed state caching with Redis, and monorepo management via Turborepo. Built with modern AI-assisted engineering practices.
-* **Links:** 
-  * 📂 [GitHub Repository ↗](https://github.com/PabloAndresVillegas1/nexusmarketV2)
-  * 🎥 [Video Demo & Architecture Walkthrough ↗](https://www.youtube.com/watch?v=QIGFseVDJvM&feature=youtu.be)
+### 🛒 Nexus Market - Multi-Stack Microservices & E-Commerce Architecture
+
+* **Overview:** Scalable multi-vendor e-commerce platform engineered across 4 distinct backend enterprise stacks (Node.js, Java, .NET, Python) sharing consistent domain logic, microservices communication patterns, database isolation, subscription models, and Stripe payment gateways.
+* **Architecture Highlights:** Microservices data isolation using relational schemas, distributed state caching, JWT authentication, and modern API Gateway patterns.
+
+#### 📌 Stacks & Repository Implementations
+1. **Node.js / NestJS Stack (Version 2.0)**
+   * **Tech Stack:** `Next.js 15` | `NestJS` | `PostgreSQL` | `Prisma ORM` | `Redis` | `TypeScript` | `Stripe` | `Turborepo`
+   * **Details:** Microservices architecture (API Gateway + 3 core services) with Redis state caching and monorepo management via Turborepo.
+   * **Links:** 📂 [GitHub Repository ↗](https://github.com/PabloAndresVillegas1/nexusmarketV2) | 🎥 [Video Demo & Architecture Walkthrough ↗](https://www.youtube.com/watch?v=QIGFseVDJvM&feature=youtu.be)
+2. **Java / Spring Boot Stack**
+   * **Tech Stack:** `Java 21` | `Spring Boot 3.3` | `Spring Security` | `PostgreSQL (JPA/Hibernate + Flyway)` | `Angular 18` | `JUnit 5 + Mockito` | `Stripe`
+   * **Details:** Multi-module Maven build architecture, robust JWT authentication, database migration via Flyway, and automated unit testing with Mockito.
+   * **Link:** 📂 [GitHub Repository (Java) ↗](https://github.com/PabloAndresVillegas1/Nexus-market-Pablo-Java.git)
+3. **.NET / ASP.NET Core Stack**
+   * **Tech Stack:** `.NET 8 / ASP.NET Core` | `Blazor WebAssembly` | `Entity Framework Core` | `PostgreSQL` | `JWT` | `Stripe`
+   * **Details:** End-to-end .NET implementation featuring a high-performance ASP.NET Core Web API backend paired with a Blazor WebAssembly standalone SPA.
+   * **Link:** 📂 [GitHub Repository (.NET) ↗](https://github.com/PabloAndresVillegas1/Nexus-market-Pablo-.NET.git)
+4. **Python / FastAPI Stack**
+   * **Tech Stack:** `Python 3.12` | `FastAPI (100% Async)` | `PostgreSQL (SQLAlchemy 2.0 + Alembic)` | `React` | `Pydantic v2` | `Pytest` | `Stripe`
+   * **Details:** Fully asynchronous backend API leveraging SQLAlchemy async ORM, Alembic migrations, Pydantic data validation, and asynchronous inter-service HTTP requests (`httpx`).
+   * **Link:** 📂 [GitHub Repository (Python) ↗](https://github.com/PabloAndresVillegas1/Nexus-market-Pablo-Python.git)
+
+---
 
 
 ### 🤖 AI Engineering & NLP Applications
