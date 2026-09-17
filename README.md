@@ -17,9 +17,9 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 ### 🛠️ Tech Stack & Core Competencies
 
 * **Programming Languages & Full-Stack:** `C#` | `PHP` | `Python` | `JavaScript` | `TypeScript` | `Java` | `Node.js` | `.NET` | `Tailwind CSS` | `HTML5 / CSS3`
-* **Architecture & Frameworks:** `Next.js 15` | `NestJS` | `Spring Boot` | `Angular` | `Vue.js` | `Django` | `Flask` | `Joomla!` | `Unity 3D` | `Microservices Architecture` | `API Gateways` | `RESTful APIs` | `MVC Pattern` | `Turborepo (Monorepo)`
-* **Databases & Data Engineering:** `SQL Server` | `MySQL` | `PostgreSQL` | `MongoDB` | `Redis` | `Prisma ORM` | `AS400 (DB2)` | `Firebase / Firestore` | `Stored Procedures` | `DDL/DML` | `Data Warehousing` | `ETL Pipelines`
-* **Cloud, DevOps & Tooling:** `Docker` | `Git / GitHub` | `GitLab` | `CI/CD Pipelines` | `OpenAI API / NLP` | `Stripe Integration` | `TortoiseSVN`
+* **Architecture & Frameworks:** `Next.js 15` | `NestJS` | `Spring Boot` | `FastAPI` | `React` | `Angular` | `Vue.js` | `Blazor` | `Django` | `Flask` | `Joomla!` | `Unity 3D` | `Microservices Architecture` | `API Gateways` | `RESTful APIs` | `MVC Pattern` | `Turborepo (Monorepo)`
+* **Databases & Data Engineering:** `SQL Server` | `MySQL` | `PostgreSQL` | `MongoDB` | `Redis` | `Prisma ORM` | `Entity Framework` | `SQLAlchemy` | `AS400 (DB2)` | `Firebase / Firestore` | `Stored Procedures` | `DDL/DML` | `Data Warehousing` | `ETL Pipelines`
+* **Cloud, DevOps & Tooling:** `Docker` | `Git / GitHub` | `GitLab` | `CI/CD Pipelines` | `OpenAI API / NLP` | `Stripe Integration` | `TortoiseSVN` | `Alembic` | `Flyway` | `Pytest / JUnit`
 * **Analytics & Business Intelligence:** `Power BI` | `DAX` | `Power Query` | `Microsoft Fabric` | `Zapier` | `Airtable / Softr` | `ArcGIS`
 
 ---
