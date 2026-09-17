@@ -46,14 +46,14 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
 * **Description:** Commercial e-commerce platform and web catalog engineered for a leather goods brand, enabling product variant browsing, inventory categorization, dynamic filtering, and streamlined customer ordering.
 * **Data Focus:** Multi-source cloud database integration leveraging Airtable for structured relational product modeling, dynamic stock tracking, and automated Google Workspace media pipelines.
 * **Link:** 🌐 [Live E-Commerce Platform ↗](https://amatistacuero.softr.app/) *(Active Retail Web Application)*
-
+<hr size="1" color="#30363d">
 
 ### 🏫 [Jecatin - Educational & Operational Management Platform](https://jecatin.comfamiliar.com/)
 * **Tech Stack:** `PHP` | `JavaScript` | `MySQL` | `Joomla!` | `Relational Database Design`
 * **Description:** Enterprise web application for teachers and administrators to manage student characterization, class scheduling, periodic evaluations, attendance, and administrative logistics (transportation, meals, and souvenir distribution).
 * **Data Focus:** Structured and normalized high-volume student data; implemented relational schemas to manage daily tracking, attendance metrics, and logistical resource allocation.
 * **Link:** 🌐 [Live Enterprise Web Application ↗](https://jecatin.comfamiliar.com/) *(Proprietary Production System)*
-
+<hr size="1" color="#30363d">
 
 ### 🛒 Nexus Market - Multi-Stack Microservices & E-Commerce Architecture
 
@@ -77,7 +77,7 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
    * **Tech Stack:** `Python 3.12` | `FastAPI (100% Async)` | `PostgreSQL (SQLAlchemy 2.0 + Alembic)` | `React` | `Pydantic v2` | `Pytest` | `Stripe`
    * **Details:** Fully asynchronous backend API leveraging SQLAlchemy async ORM, Alembic migrations, Pydantic data validation, and asynchronous inter-service HTTP requests (`httpx`).
    * **Link:** 📂 [GitHub Repository (Python) ↗](https://github.com/PabloAndresVillegas1/Nexus-market-Pablo-Python.git)
-
+<hr size="1" color="#30363d">
 
 ### 🤖 AI Engineering & NLP Applications
 * **Tech Stack:** `Python` | `Vue.js` | `OpenAI API / ChatGPT` | `NLP` | `Voice Processing`
@@ -87,21 +87,21 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
   * **[Meeting Companion](https://github.com/PabloAndresVillegas1/Meeting-Companion):** AI assistant for meeting transcription and summary extraction.
   * **[Translate Voice](https://github.com/PabloAndresVillegas1/translate-voice) & [Chat Voice OpenAI](https://github.com/PabloAndresVillegas1/chat-voice-openai):** Speech-to-text and voice-driven AI interfaces.
   * **[Subtitulos Imagenes](https://github.com/PabloAndresVillegas1/subtitulos_imagenes):** Computer vision & image captioning utility.
-
+<hr size="1" color="#30363d">
 
 ### 🗳️ [Registraduría MINTIC - Distributed Electoral Management System](https://github.com/cinemintic-pablo)
 * **Tech Stack:** `Python` | `Java (Spring Boot)` | `TypeScript (Vue.js)` | `MongoDB` | `API Gateway` | `Microservices`
 * **Description:** Distributed multi-tenant system designed for national electoral administration, handling security access control, party/candidate registration, voting table management, and real-time election results processing.
 * **Data Focus:** Decoupled microservices architecture using MongoDB for flexible document storage and event processing; implemented an API Gateway alongside dedicated Security (RBAC) and Results backend services to ensure strict data isolation and scalable query execution.
 * **Link:** 📂 [GitHub Organization Repositories ↗](https://github.com/REGISTRADURIA-MINTIC-PABLO) *(Public Microservices Ecosystem)*
-
+<hr size="1" color="#30363d">
 
 ### 🎬 [CineMINTIC 2022 - Movie Ticketing & Concessions Platform](https://github.com/cinemintic-pablo)
 * **Tech Stack:** `Angular` | `TypeScript` | `Node.js` | `Firebase` | `JavaScript` | `Handlebars`
 * **Description:** Full-stack web application for online cinema management, enabling user authentication, interactive movie catalog browsing, seat reservation workflows, and concession combo purchases.
 * **Data Focus:** Cloud-native NoSQL data design utilizing Firebase for real-time document synchronization, user session state management, and seamless transactional flows across decoupled front-end micro-frontends.
 * **Link:** 📂 [GitHub Organization Repositories ↗](https://github.com/cinemintic-pablo) *(Public Microservices Ecosystem)*
-
+<hr size="1" color="#30363d">
 
 ### 🎮 Interactive 3D Applications, Mobile Games & Educational Simulators
 * **Tech Stack:** `C#` | `Unity 3D` | `Android` | `TortoiseSVN` | `Desktop & WebGL`
