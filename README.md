@@ -79,9 +79,10 @@ Systems Engineer (Honors Graduate) and Software Development Specialist. I bring 
    * **Link:** 📂 [GitHub Repository (Python) ↗](https://github.com/PabloAndresVillegas1/Nexus-market-Pablo-Python.git)
 <p align="center">・ ・ ・</p>
 
-### 🤖 AI Engineering & NLP Applications
-* **Tech Stack:** `Python` | `Vue.js` | `OpenAI API / ChatGPT` | `NLP` | `Voice Processing`
-* **Description:** Portfolio of AI-driven solutions covering sentiment analysis, voice processing, and context-aware conversational bots:
+### 🤖 AI Engineering & Agentic RAG Systems
+* **Tech Stack:** `Python` | `FastAPI` | `Next.js` | `LangChain / LangGraph` | `MongoDB Atlas` | `Hugging Face` | `OpenAI API`
+* **Description:** Portfolio of AI-driven solutions covering agentic workflows, RAG architectures, sentiment analysis, voice processing, and context-aware conversational systems:
+  * 🌐 **[Full-Stack AI Agent & RAG Platform ↗](https://ai-agent-frontend-rg9b.onrender.com)** *(Active Production Deployment)*
   * **[Chatbot ChatGPT](https://github.com/PabloAndresVillegas1/Chatbot-ChatGPT):** Conversational AI interface built with OpenAI API.
   * **[Chatbot Specific Data](https://github.com/PabloAndresVillegas1/Chatbot-Datos-especificos):** Custom knowledge-base chatbot for specific document queries.
   * **[Meeting Companion](https://github.com/PabloAndresVillegas1/Meeting-Companion):** AI assistant for meeting transcription and summary extraction.
